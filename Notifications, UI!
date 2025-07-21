@@ -1,0 +1,33 @@
+local AkaliNotif = loadstring(game:HttpGet(" "))();
+local Notify = AkaliNotif.Notify;
+
+wait(1);
+
+Notify({
+Description = "Currently in development - LurkinThaDev";
+Title = "Early | Wave 1";
+Duration = 5;
+});
+
+wait(1);
+
+Notify({
+Description = "Currently in development - LurkinThaDev";
+Title = "Early | Wave 2";
+Duration = 10;
+});
+
+wait(1);
+
+Notify({
+Description = "Currently in development - LurkinThaDev";
+Title = "Early | Wave 3";
+Duration = 1;
+});
+
+wait(1);
+
+Notify({
+Description = "1% of Progression";
+Duration = 3;
+});
