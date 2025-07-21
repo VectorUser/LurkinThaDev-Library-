@@ -1,4 +1,4 @@
-local Vault = loadstring(game:HttpGet("https://github.com/VectorUser/LurkinThaDev-Library-/blob/Notifications/Notifications%2C%20Script!"))();
+local Vault = loadstring(game:HttpGet("https://raw.githubusercontent.com/VectorUser/LurkinThaDev-Library-/refs/heads/Notifications/Notifications%2C%20Script!"))();
 local Notify = Vault.Notify;
 
 wait(1);
