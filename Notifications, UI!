@@ -1,5 +1,5 @@
-local AkaliNotif = loadstring(game:HttpGet(" "))();
-local Notify = AkaliNotif.Notify;
+local Vault = loadstring(game:HttpGet(" "))();
+local Notify = Vault.Notify;
 
 wait(1);
 
